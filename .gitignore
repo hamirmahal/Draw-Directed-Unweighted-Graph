@@ -1,0 +1,6 @@
+# This avoids committing generated files to source control.
+index.html
+input.dot
+
+# Ignore installed dependencies.
+node_modules/
