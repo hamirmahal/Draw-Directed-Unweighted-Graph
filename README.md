@@ -2,7 +2,9 @@
 
 1. Make sure you have `npm` and the `dot` command installed on your system.
 2. Run `npm install` in this repository.
-3. Change the input graph in `index.ts`, then run `npm start` and view the contents of `index.html` in your browser.
+3. Run `npm start`.
+4. View the contents of `index.html` in your web browser.
+5. Any time you change the input graph in `index.ts`, if `npm start` is still running, the graph in `index.html` should automatically update. You may need to refresh the page to see the changes, but the page should just update automatically if you're using Live Server in VS Code to view `index.html`.
 
 # Demo
 
